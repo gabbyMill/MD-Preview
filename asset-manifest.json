@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/gabbyMill/MD-Preview/static/css/main.2adfa5c8.chunk.css",
-    "main.js": "/gabbyMill/MD-Preview/static/js/main.49eebc79.chunk.js",
-    "main.js.map": "/gabbyMill/MD-Preview/static/js/main.49eebc79.chunk.js.map",
-    "runtime-main.js": "/gabbyMill/MD-Preview/static/js/runtime-main.c5a7fe8f.js",
-    "runtime-main.js.map": "/gabbyMill/MD-Preview/static/js/runtime-main.c5a7fe8f.js.map",
-    "static/js/2.081bcb10.chunk.js": "/gabbyMill/MD-Preview/static/js/2.081bcb10.chunk.js",
-    "static/js/2.081bcb10.chunk.js.map": "/gabbyMill/MD-Preview/static/js/2.081bcb10.chunk.js.map",
-    "index.html": "/gabbyMill/MD-Preview/index.html",
-    "static/css/main.2adfa5c8.chunk.css.map": "/gabbyMill/MD-Preview/static/css/main.2adfa5c8.chunk.css.map",
-    "static/js/2.081bcb10.chunk.js.LICENSE.txt": "/gabbyMill/MD-Preview/static/js/2.081bcb10.chunk.js.LICENSE.txt"
+    "main.css": "/first-react-app/static/css/main.2adfa5c8.chunk.css",
+    "main.js": "/first-react-app/static/js/main.49eebc79.chunk.js",
+    "main.js.map": "/first-react-app/static/js/main.49eebc79.chunk.js.map",
+    "runtime-main.js": "/first-react-app/static/js/runtime-main.69b628cc.js",
+    "runtime-main.js.map": "/first-react-app/static/js/runtime-main.69b628cc.js.map",
+    "static/js/2.081bcb10.chunk.js": "/first-react-app/static/js/2.081bcb10.chunk.js",
+    "static/js/2.081bcb10.chunk.js.map": "/first-react-app/static/js/2.081bcb10.chunk.js.map",
+    "index.html": "/first-react-app/index.html",
+    "static/css/main.2adfa5c8.chunk.css.map": "/first-react-app/static/css/main.2adfa5c8.chunk.css.map",
+    "static/js/2.081bcb10.chunk.js.LICENSE.txt": "/first-react-app/static/js/2.081bcb10.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c5a7fe8f.js",
+    "static/js/runtime-main.69b628cc.js",
     "static/js/2.081bcb10.chunk.js",
     "static/css/main.2adfa5c8.chunk.css",
     "static/js/main.49eebc79.chunk.js"
