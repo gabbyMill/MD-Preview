@@ -10,14 +10,15 @@ class Main extends Component {
       text: "",
     };
   }
-  changeContent = content => {
+
+  changeStateContent = content => {
     this.setState({ content });
   };
 
   render() {
     return (
       <div id="Main">
-        <Editor text={this.changeContent} />
+        <Editor text={this.changeStateContent} />
         <Preview content={this.state.content} />
       </div>
     );
