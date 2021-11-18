@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import starter from "../mdStarter";
 import Preview from "./Preview";
 import Editor from "./Editor";
 
@@ -6,8 +7,8 @@ class Main extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      content: "Example Text",
       text: "",
+      content: starter,
     };
   }
 
